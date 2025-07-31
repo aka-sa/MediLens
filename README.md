@@ -53,6 +53,3 @@
 
 ---
 
-
-git clone https://github.com/your-username/medilens.git
-cd medilens
