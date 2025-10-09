@@ -1,4 +1,4 @@
-<img src="WITH BG.png" alt="MediLens Logo" width="100%">
+<img src="FOR README.png">
 
 # 🧠 MediLens – AI-Based Prescription Reader & Medicine Manager
 
