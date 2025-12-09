@@ -1,4 +1,4 @@
-<img src="FOR README.png" alt="MediLens Banner" style="width:100%; max-width:1000px;">
+<img src="FOR README.png" alt="MediLens Banner" style="width:100%; clip-path: inset(25% 0 25% 0);">
 
 # MediLense: AI-Powered Prescription Analysis
 
