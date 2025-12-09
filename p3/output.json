@@ -1,0 +1,85 @@
+{
+  "patient_name": "Mr. Sachin Bansare",
+  "date": "12/10/22",
+  "doctor": "The White Tusk",
+  "summary": "Take Augmentin 625mg after meals for 5 days, Enzoflam 1-0-1 for 5 days, Pan-D 40mg before meals for 5 days, and Hexigel gum paint massage 1-0-1 once a week.",
+  "medications": [
+    {
+      "medicine": "Augmentin 625mg",
+      "therapeutic_class": "Antibiotic",
+      "common_uses": [
+        "Treatment of bacterial infections"
+      ],
+      "typical_dosage_range": "1-0-1 x 5 days",
+      "safety_notes": "Use as directed",
+      "possible_interactions": [
+        "None known"
+      ],
+      "analysis_summary": "Augmentin is a combination of Amoxicillin and Clavulanate, typically used for bacterial infections.",
+      "red_flags": [
+        "None identified"
+      ],
+      "original_name": "Augmentin 625mg"
+    },
+    {
+      "medicine": "Enzoflam",
+      "therapeutic_class": "NSAID / Analgesic",
+      "common_uses": [
+        "Pain relief",
+        "Inflammation reduction"
+      ],
+      "typical_dosage_range": "1 tablet twice daily",
+      "safety_notes": "Avoid in peptic ulcer or asthma patients",
+      "possible_interactions": [
+        "Warfarin",
+        "Aspirin"
+      ],
+      "analysis_summary": "Likely contains Aceclofenac or Diclofenac for pain and inflammation.",
+      "red_flags": [
+        "GI bleeding risk",
+        "Avoid in renal impairment"
+      ],
+      "original_name": "Enzoflam"
+    },
+    {
+      "medicine": "Pan-D 40mg",
+      "therapeutic_class": "PPI + Prokinetic",
+      "common_uses": [
+        "Gastroesophageal reflux disease",
+        "Peptic ulcer disease"
+      ],
+      "typical_dosage_range": "40mg once daily",
+      "safety_notes": "Use as directed",
+      "possible_interactions": [
+        "Cimetidine",
+        "Ranitidine"
+      ],
+      "analysis_summary": "Likely used for symptom relief of acid reflux and peptic ulcer based on name and context",
+      "red_flags": "None identified",
+      "original_name": "Pan-D 40mg"
+    },
+    {
+      "medicine": "Hexigel gum",
+      "therapeutic_class": "Antiseptic/Analgesic",
+      "common_uses": [
+        "Topical treatment for gum pain and inflammation"
+      ],
+      "typical_dosage_range": "1-0-1 x 1 week",
+      "safety_notes": "Use as directed",
+      "possible_interactions": [
+        "None known"
+      ],
+      "analysis_summary": "Hexigel gum is likely used for topical treatment of gum pain and inflammation due to its ingredients Chlorhexidine and Lidocaine.",
+      "red_flags": [
+        "None identified"
+      ],
+      "original_name": "Hexigel gum paint massage"
+    }
+  ],
+  "drug_interactions": {
+    "interaction_found": false,
+    "pairs": []
+  },
+  "analysis_timestamp": "2025-09-18 15:18:06",
+  "warnings": []
+}
