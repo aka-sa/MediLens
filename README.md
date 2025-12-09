@@ -1,4 +1,4 @@
-<img src="FOR README.png" alt="MediLens Banner" width="100%">
+<img src="FOR README.png" alt="MediLens Banner" width="50%">
 
 # MediLense: AI-Powered Prescription Analysis
 
