@@ -318,7 +318,7 @@ We welcome contributions! Areas where you can help:
 ## 🎥 MediLens Demo
 
 <video width="100%" controls>
-  <source src="https://github.com/aka-sa/MediLens/blob/main/Screen%20Recording%202025-11-25%20224120.mp4" type="video/mp4">
+  <source src="Screen%20Recording%202025-11-25%20224120.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
