@@ -314,12 +314,6 @@ We welcome contributions! Areas where you can help:
 - 🔧 **Code Contributions**: Submit pull requests
 - 📖 **Documentation**: Improve guides and examples
 
----
-## 🎥 MediLens Demo
-
-
-[![MediLens Demo](https://img.youtube.com/vi/jP-gVHSRM4Q/0.jpg)](https://www.youtube.com/watch?v=jP-gVHSRM4Q)
-
 
 ---
 
