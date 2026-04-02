@@ -317,7 +317,7 @@ We welcome contributions! Areas where you can help:
 ---
 ## 🎥 MediLens Demo
 
-[![MediLens Demo]
+[![MediLens Demo](https://youtu.be/jP-gVHSRM4Q)
 
 
 ---
