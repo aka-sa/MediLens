@@ -315,6 +315,14 @@ We welcome contributions! Areas where you can help:
 - 📖 **Documentation**: Improve guides and examples
 
 ---
+## 🎥 MediLens Demo
+
+<video width="100%" controls>
+  <source src="medilens_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 
 ## 📚 References
 
